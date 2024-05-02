@@ -2,6 +2,8 @@
 
 Create your next project using [dreamland.js](https://github.com/MercuryWorkshop/dreamlandjs) and TSX!
 
+![Preview](./PREVIEW%20(DELETE%20ME).png)
+
 ## Cloning & Installing
 
 In the future I might make a fancy CLI but I don't really know if I have time since exams are getting closer.
