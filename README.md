@@ -28,6 +28,8 @@ or... Build for production
 npm run build
 ```
 
+**Note:** If you're building for production, edit src/app.tsx and replace "dreamland/dev" with "dreamland"
+
 ## Resources
 - [Discord Community](https://discord.gg/JAjNyRRgYF)
 - [GitHub Repo (dreamlandjs)](https://github.com/MercuryWorkshop/dreamlandjs)
