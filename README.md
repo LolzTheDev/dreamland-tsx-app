@@ -30,3 +30,8 @@ npm run build
 - [Discord Community](https://discord.gg/JAjNyRRgYF)
 - [GitHub Repo (dreamlandjs)](https://github.com/MercuryWorkshop/dreamlandjs)
 - [Documentation](https://dreamland.js.org)
+
+Other useful pages:
+- [Vite](https://vitejs.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [JSXS/TSX](https://www.typescriptlang.org/docs/handbook/jsx.html)
